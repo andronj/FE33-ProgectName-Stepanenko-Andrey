@@ -23,9 +23,11 @@
 .awesome-row {
     display: flex;
     justify-content: space-between;
+    margin: 0 -15px;
 }
 .awesome-card {
     width: 350px;
+    margin: 0 15px;
 }
 .awesome-card-img {
     width: 70px;
