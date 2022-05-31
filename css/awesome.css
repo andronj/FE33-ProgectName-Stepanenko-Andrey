@@ -3,23 +3,7 @@
    
 
 }
-.awesome-line {
-    margin: auto;
-    width: 64px;
-    height: 2px;
-    background-color: #E72424;
-    margin-bottom: 34px;   
-}
-.awesome-podtext {
-    display: flex;
-    justify-content: center;
-    font-family: 'Open Sans';
-    font-size: 14px;
-    line-height: 19px;
-    color: #86878B;
-    margin-bottom: 68px;
-   
-}
+
 .awesome-row {
     display: flex;
     justify-content: space-between;
