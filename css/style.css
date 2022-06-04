@@ -1,6 +1,7 @@
 @import url('../css/cdn.css');
 @import url('../css/awesome.css');
 @import url('../css/pricing.css');
+@import url('../css/customers.css');
 
 * {
     margin: 0;
@@ -39,9 +40,7 @@ html {
     height: 2px;
     background-color: #E72424;
     margin-top: 34px;   
-    display: block;
-    
-    
+    display: block;  
 
 }
 
