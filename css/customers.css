@@ -47,32 +47,23 @@
     width: 70px;
     height: 70px;
     margin: 0 auto 30px;
-    background: url(../img/icons/spongebob.png);
+    background: url(../img/spanch\ bob.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     border-radius: 35px;
-    border: 1px solid #E72424;
-    
-    
-    
-
     
 }
 
-.customers-card-img-homer{
+.customers-card-img-Lisa{
     width: 70px;
     height: 70px;
     border-radius: 50%;
     margin: 0 auto 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 1px solid #E72424;
-    background: url(../img/icons/homer.png);
+    background: url(../img/1-65.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
 }
 
 .customers-card-img-donald{
@@ -81,13 +72,10 @@
     border-radius: 50%;
     margin: 0 auto 30px;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 1px solid #E72424;
-    background: url(../img/icons/donald.png);
+    background: url(../img/Donald_Duck.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
 }
 .customers-card-specialist {
 }
