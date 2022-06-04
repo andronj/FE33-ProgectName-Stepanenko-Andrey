@@ -47,7 +47,7 @@
     width: 70px;
     height: 70px;
     margin: 0 auto 30px;
-    background: url(/img/icons/spongebob.png);
+    background: url(../img/icons/spongebob.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -69,7 +69,7 @@
     justify-content: center;
     align-items: center;
     border: 1px solid #E72424;
-    background: url(/img/icons/homer.png);
+    background: url(../img/icons/homer.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -84,7 +84,7 @@
     justify-content: center;
     align-items: center;
     border: 1px solid #E72424;
-    background: url(/img/icons/donald.png);
+    background: url(../img/icons/donald.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
