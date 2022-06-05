@@ -51,7 +51,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    border-radius: 35px;
+    border-radius: 50%;
     
 }
 
@@ -71,7 +71,6 @@
     height: 70px;
     border-radius: 50%;
     margin: 0 auto 30px;
-    display: flex;
     background: url(../img/Donald_Duck.jpg);
     background-repeat: no-repeat;
     background-position: center;
