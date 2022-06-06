@@ -27,6 +27,16 @@
     margin-bottom: 34px;
     color: #FFFFFF;
 }
+
+.axure-title::after{
+    content: "";
+    margin: auto;
+    width: 64px;
+    height: 2px;
+    background-color: #FFFFFF;
+    margin-top: 34px;   
+    display: block;  
+}
 .axure-podtext {
     font-family: 'Raleway';
     font-weight: 300;
