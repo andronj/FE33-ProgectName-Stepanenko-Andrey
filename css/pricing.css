@@ -13,7 +13,6 @@
     margin: 0 15px;
 }
 .list-item-tariph {
-    font-family: 'Open Sans';
     color: #fff;
     font-weight: 700;
     font-size: 20px;
@@ -33,7 +32,6 @@
     margin-bottom: 2px;
 }
 .list-item-string {
-    font-family: 'Open Sans';
     color: rgba(255, 255, 255, 0.5);
     font-weight: 600;
     font-size: 14px;
@@ -42,7 +40,6 @@
     background: #333333;
 }
 .list-item {
-    font-family: 'Open Sans';
     font-weight: 400;
     font-size: 14px;
     line-height: 47px;

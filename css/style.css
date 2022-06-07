@@ -14,7 +14,7 @@
 
 
 html {
-    font-family: 'Open Sans', 'Raleway' sans-serif;
+    font-family: 'Open Sans', 'Raleway', sans-serif;
 }
 
 .container {
@@ -50,7 +50,6 @@ html {
 
 .podtext {
     text-align: center;
-    font-family: 'Open Sans';
     font-size: 14px;
     line-height: 19px;
     color: #86878B;

@@ -14,7 +14,6 @@
 .customers-card-text {
     background-color: #E2E2E2;
     font-style: normal;
-    font-family: 'Open Sans';
     font-weight: 400;
     font-size: 14px;
     line-height: 19px;
@@ -79,19 +78,16 @@
 .customers-card-specialist {
 }
 .name {
-    font-family: 'Open Sans';
     font-weight: 700;
     font-size: 20px;
     line-height: 27px;
     text-align: center;
 }
 .job {
-    font-family: 'Open Sans';
     font-weight: 400;
     font-size: 14px;
     line-height: 19px;
     color: #86878B;
     display: block;
     text-align: right;
-
 }
