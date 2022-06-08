@@ -38,6 +38,7 @@
 }
 
 .header-menu-list-item a {
+    display: inline-block;
     margin-right: 48px;
     font-weight: 600;
     font-size: 15px;
@@ -48,4 +49,5 @@
 
 .header-menu-list-item a:hover{
     color: rgb(121, 211, 238);
+    transform: scale(1.2);
 }
