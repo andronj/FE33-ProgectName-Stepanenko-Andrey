@@ -6,6 +6,7 @@
 .social-row {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     align-items: center;
     margin: 0 -15px;
 }
@@ -29,12 +30,15 @@
     display: flex;
     width: 684px;
     justify-content: space-between;
+    margin: 0 15px;
+
 }
 .social-icons-links {
     font-size: 42px;
-    transition: 0.2s;
+   
 }
 .fa-brands {
+    transition: 0.3s;
     color: #86878B;
 }
 .fa-facebook-f:hover {
@@ -53,7 +57,6 @@
 .fa-pinterest:hover {
     color:yellowgreen;
     transform: translate(0px, 10px);
-
 }
 .fa-instagram:hover {
     color: palevioletred;

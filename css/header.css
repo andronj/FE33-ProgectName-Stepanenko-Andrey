@@ -36,11 +36,11 @@
     
 }
 .header-menu-list-item {
+    margin-left: 48px;
 }
 
 .header-menu-list-item a {
     display: inline-block;
-    margin-right: 48px;
     font-weight: 600;
     font-size: 15px;
     line-height: 20px;
@@ -51,4 +51,14 @@
 .header-menu-list-item a:hover{
     color: rgb(121, 211, 238);
     transform: scale(1.2);
+}
+
+.header-menu-burger {
+    color: #FFFFFF;
+    font-size: 25px;
+    display: none;
+}
+.fa-solid {
+}
+.fa-bars {
 }
