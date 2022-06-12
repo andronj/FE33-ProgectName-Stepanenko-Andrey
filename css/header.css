@@ -16,7 +16,6 @@
     
 }
 .header-menu {
-  
 }
 .header-menu-list {
     display: flex;
@@ -28,7 +27,7 @@
 
 .header-menu-list-item a {
     display: inline-block;
-    font-weight: 600;
+    font-weight: 400;
     font-size: 15px;
     line-height: 20px;
     color: rgba(255, 255, 255, 0.7);
