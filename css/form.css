@@ -86,7 +86,7 @@
 .forms-block-content {
     display: flex;
     flex-direction: column;
-    padding: 10px 59px 0px 59px;
+    padding: 10px 59px 40px 59px;
 }
 .forms-block-content-title {
     font-weight: 700;
@@ -103,11 +103,11 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 19px;
+    margin-bottom: 40px;
     color: #BDBDBD;
 }
 .forms-block-content-item input{
     font-size: 25px;
-    margin-bottom: 40px;
     border: none;
     border-bottom: 1px solid #BDBDBD;
     display: block;
@@ -119,7 +119,7 @@
 } */
 .btn {
     display: block;
-    margin-top: 45px;
+    /* margin-top: 45px; */
     width: 100%;
     padding: 18px;
     background: #EC7979;
