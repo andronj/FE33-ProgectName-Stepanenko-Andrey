@@ -55,3 +55,6 @@
     background: #FFFFFF;
     margin-bottom: 4px;
 }
+.list-item:last-child{
+    margin-bottom: 0px;
+}

@@ -9,27 +9,13 @@
     align-items: center;
 }
 .header-logo {
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
     
 }
-
-.letter {
-    font-family: 'Raleway';
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 35px;
-    color: #FFFFFF;
-
-}
-.seclet {
-    font-family: 'Raleway';
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 35px;
-    color: #EC7979;
-
-}
 .header-menu {
-  
 }
 .header-menu-list {
     display: flex;
@@ -41,7 +27,7 @@
 
 .header-menu-list-item a {
     display: inline-block;
-    font-weight: 600;
+    font-weight: 400;
     font-size: 15px;
     line-height: 20px;
     color: rgba(255, 255, 255, 0.7);
