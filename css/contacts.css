@@ -17,11 +17,14 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 19px;
+    margin-bottom: 40px;
     color: #BDBDBD;
+}
+.contacts-block-item:last-child{
+    margin-bottom: 0px;
 }
 .contacts-block-item input{
     font-size: 25px;
-    margin-bottom: 40px;
     border: none;
     border-bottom: 1px solid #BDBDBD;
     display: block;
