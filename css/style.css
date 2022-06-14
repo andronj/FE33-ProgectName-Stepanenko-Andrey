@@ -1,6 +1,7 @@
 @import url('../css/cdn.css');
 @import url('../css/header.css');
 @import url('../css/social.css');
+@import url('../css/tabs.css');
 @import url('../css/awesome.css');
 @import url('../css/pricing.css');
 @import url('../css/customers.css');
@@ -67,4 +68,21 @@ html {
 }
 .seclet {
     color: #EC7979;
+}
+
+@media (max-width:1200px){
+    .container {
+        max-width: 970px;
+    }
+    .social-content{
+        justify-content: center;
+    }
+    .social-icons{
+        margin-top: 20px;
+
+    }
+    .social-icons-links{
+        font-size: 45px;
+    }
+      
 }
