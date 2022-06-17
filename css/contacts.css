@@ -11,9 +11,9 @@
 }
 .contacts-block {
     margin: 0 15px;
+    width: 40%;
 }
 .contacts-block-item {
-    width: 478px;
     font-weight: 400;
     font-size: 14px;
     line-height: 19px;
@@ -33,7 +33,7 @@
 }
 
 .contacts-area {
-    width: 478px;
+    width: 40%;
     margin: 0 15px;
     font-weight: 400;
     font-size: 14px;
@@ -41,12 +41,14 @@
     color: #BDBDBD;
 }
 .contacts-area textarea{
+    height: 209px;
     font-size: 25.55px;
     border: none;
     border-bottom: 1px solid #BDBDBD;
     display: block;
     width: 100%;
     outline: none;
+    resize: none;
     
 
 }

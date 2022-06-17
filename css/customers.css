@@ -23,6 +23,12 @@
     border-radius: 7px;
     position: relative;
 }
+.customers-card-text:hover{
+transform: translate(15px, -15px);
+color: rgb(15, 15, 15, 0.85);
+box-shadow: 0 0 15px 2px rgb(15, 15, 15, 0.85);
+transition-duration: 0.3s;
+}
 .customers-card-text::after{
     content: "";
     width: 0; 
