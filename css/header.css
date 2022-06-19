@@ -1,7 +1,11 @@
 .header {
     padding: 25px 0;
     background-color: #000000;
+    position: fixed;
+    top: 0;
+    left: 0;
     width: 100%;
+    z-index: 10;
 }
 .header-row {
     display: flex;
@@ -43,8 +47,4 @@
     color: #FFFFFF;
     font-size: 25px;
     display: none;
-}
-.fa-solid {
-}
-.fa-bars {
 }
